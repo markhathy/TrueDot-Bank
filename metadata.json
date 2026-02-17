@@ -1,0 +1,5 @@
+{
+  "name": "Ganache Insight Explorer",
+  "description": "A high-fidelity local blockchain explorer and management dashboard for Ganache, featuring AI-assisted smart contract debugging and chain analysis.",
+  "requestFramePermissions": []
+}
